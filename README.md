@@ -1,7 +1,3 @@
-
-
-markdown
-Copiar código
 # 🚀 Bienvenido a **Flux**: El Framework Backend Modular en Dart 🌟
 
 **Flux** es un framework backend escrito en **Dart**, inspirado en la arquitectura modular y amigable de **NestJS**. Nuestro objetivo es simplificar la creación de APIs robustas, escalables, y divertidas de construir, ¡todo mientras nos aseguramos de que el proceso sea tan fluido como el propio nombre sugiere! 🌊✨
