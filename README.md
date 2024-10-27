@@ -1,5 +1,4 @@
 
-Entiendo, aquí te lo dejo completamente en formato Markdown listo para copiar y pegar en tu archivo .md sin ningún problema:
 
 markdown
 Copiar código
