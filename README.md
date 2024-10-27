@@ -34,4 +34,14 @@ Para comenzar a usar **Flux**, solo necesitas seguir unos simples pasos:
    git clone <URL_DE_TU_REPOSITORIO>
    cd flux
 ![image](https://github.com/user-attachments/assets/f547e147-4d29-40c1-8da1-d5d27b0964a4)
+![image](https://github.com/user-attachments/assets/56d3f210-b9a3-4dba-8489-44add4b9f9fe)
+![image](https://github.com/user-attachments/assets/c3db63fa-9b2f-479a-a11d-6c78c0993cbc)
+![image](https://github.com/user-attachments/assets/f2da2b6b-33ad-4fbd-bf29-ee8adb1a176e)
+![image](https://github.com/user-attachments/assets/b7826076-3528-4417-8471-bc0ff11fcda9)
+💡 Contribuciones
+Estamos construyendo Flux con la idea de que el desarrollo backend puede y debe ser divertido, colaborativo y desafiante. Todos los que quieran contribuir a mejorar la herramienta son bienvenidos. Desde sugerencias hasta la creación de módulos adicionales, cualquier aporte suma para hacer de Flux la mejor herramienta posible. ¡No dudes en hacer un fork y enviar un pull request! 🤝
 
+🥳 ¡Únete al Flujo!
+Con Flux, construir aplicaciones backend no es solo escribir código, es fluir con el proceso. Queremos que puedas enfocarte en lo que realmente importa: la lógica de tu negocio, mientras nosotros nos ocupamos de que el flujo de desarrollo sea tan natural como el agua de un río. 🌊✨
+
+"Fluir con Flux: deja de luchar contra el código, y empieza a disfrutar del flujo de desarrollo."
